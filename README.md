@@ -33,14 +33,15 @@ I'm a Computer Engineering undergrad with a relentless curiosity for all things 
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sworrrnimaS&theme=tokyonight" alt="sworrrnimaS" />
-</p>
+
 
 <div align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sworrrnimaS&theme=tokyonight" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sworrrnimaS&theme=tokyonight" height="180em" />
-</div>
+
+![](https://github-readme-stats.vercel.app/api?username=sworrrnimaS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sworrrnimaS&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sworrrnimaS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ </div>
+
 
 ## Connect with me
 <p align="center">
