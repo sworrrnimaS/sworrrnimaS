@@ -31,16 +31,7 @@ I'm a Computer Engineering undergrad with a relentless curiosity for all things 
 </p>
 </div>
 
-## GitHub Stats
 
-
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=sworrrnimaS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sworrrnimaS&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sworrrnimaS&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
- </div>
 
 
 ## Connect with me
